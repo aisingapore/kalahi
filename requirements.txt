@@ -1,0 +1,9 @@
+bleurt-pytorch>=0.0.1
+bert-score>=0.3.0
+einops>=0.8.0
+evaluate>=0.4.0
+numpy>=1.26.0
+openai>=0.10.0
+pandas>=2.2.0
+sentencepiece>=0.2.0
+transformers>=4.43.0
